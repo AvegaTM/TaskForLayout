@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25.09.2016, 7:40:52
+    Author     : avg
+*/
+/* set a max-width for horizontal fluid layout and make it centered */
+    .container-fluid {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 950px; /* or 1600px; */
+    }
+    h1, h2 {
+        padding: 8px;
+        font-weight: 300;
+        text-align: center;
+        background-color: #f2e7de;
+    }
+    form h3{
+        margin: 0;
+        padding: 20px 16px 10px 16px;
+    }

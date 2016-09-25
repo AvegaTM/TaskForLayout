@@ -1,0 +1,16 @@
+{
+    "name": "avg/taskforlayout",
+    "description": "task",
+    "authors": [
+        {
+            "name": "AvegaTM",
+            "email": "AvegaTemp@GMail.com"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^3.1",
+        "twbs/bootstrap": "^3.3"
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true
+}
